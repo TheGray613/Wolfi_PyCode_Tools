@@ -1,7 +1,8 @@
 # Project Name
   . Wolfi_PyCode_Tools
 # Description 
-I want give you many tools in IT field.
+Some times i try to making tools for better result in Cyber Security. I'm not a professional developer but try to making easy life for other people.
+Wolfi_PyCode_tools focus in tools in IT field.
 
 # Network
 many of these tools will be used in network.
