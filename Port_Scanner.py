@@ -1,6 +1,7 @@
-import pyfiglet #The Pyfiglet module is specially designed to enhance our programming experience as well as to enhance the overall look and structure of the texts used in electronic communication.
+#The Pyfiglet module is specially designed to enhance our programming experience as well as to enhance the overall look and structure of the texts used in electronic communication.
 #The pyfiglet module of Python works on the Figlet method, which was originally designed for the C, and later it was imported into Python.
 import sys
+import pyfiglet
 import socket
 from datetime import datetime
 
