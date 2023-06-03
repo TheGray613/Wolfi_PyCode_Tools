@@ -1,6 +1,7 @@
 import requests
 #This is a Python library for making HTTP requests. It provides a simple and elegant way to interact with RESTful APIs and other web services. 
-#The requests library provides several methods for making HTTP requests, including get(), post(), put(), delete(), and head(). These methods return a Response object that contains the server's response to the request. 
+#The requests library provides several methods for making HTTP requests, including get(), post(), put(), delete(), and head().
+#These methods return a Response object that contains the server's response to the request. 
 #The Response object provides several attributes and methods for accessing the response data, including status_code, headers, and text.
 import re
 #This is a Python module for working with regular expressions.
