@@ -3,8 +3,8 @@
 # Description 
 Some times i try to making tools for better result in Cyber Security.
 I'm not a professional developer but try to making easy life for other people.
-Wolfi_PyCode_tools focus in tools in IT & Security field. Penetration testing tools are used as part of a penetration test(Pen Test) to automate certain tasks, improve testing efficiency and discover issues that might be difficult to find using manual analysis techniques alone. 
-Two common penetration testing tools are static analysis tools and dynamic analysis tools.
+Penetration testing tools are used as part of a penetration test(Pen Test) to automate certain tasks, improve testing efficiency and discover issues that might be difficult to find using manual analysis techniques alone. 
+Two common penetration testing tools are static analysis tools and dynamic analysis tools. Wolfi_PyCode_tools focus in tools in IT & Security field.
 
 <img width="1000" height="300" src="https://wallpaperaccess.com/full/222143.jpg">
 
