@@ -10,8 +10,8 @@ header_name = 'WationSecret'
 for i in range(100, 151):
     url = f'https://wation.cloud/cyberdev/junior/http/header/{i}'
     response = requests.get(url)
-    if response.status_code == 200:
-    # Loop example for     
+   # Loop example for 
+    if response.status_code == 200:         
         if header_name in response.headers:
             encoded_value = response.headers[header_name]
             decoded_value = base64.b64decode(encoded_value).decode('utf-8')
